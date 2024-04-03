@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **bestmustard/bestmustard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You've reached my GitHub! 
+
+- 🔭 I’m currently working on a workout tracking app on iOS and Android, using principles from my favourite science-based lifting YouTubers. 
+- 🌱 I’m currently learning Swift and React Native.
+- 📫 How to reach me: My primary email is victorjjma@gmail.com, you can also send me a chat on LinkedIn.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I watched so many anime that I picked up a little bit of Japanese, so I started tutoring and I am on my way to taking the N-1 Exam for it.
