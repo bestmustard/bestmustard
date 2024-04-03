@@ -21,4 +21,4 @@ You've reached my GitHub!
 - 🌱 I’m currently learning Swift and React Native.
 - 📫 How to reach me: My primary email is victorjjma@gmail.com, you can also send me a chat on LinkedIn.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I watched so many anime that I picked up a little bit of Japanese, so I started tutoring and I am on my way to taking the N-1 Exam for it.
+- ⚡ Fun fact: I watched so many anime that I picked up a little bit of Japanese, so I got an online language tutor and I am planning to take the N2 level exam for it this July!
