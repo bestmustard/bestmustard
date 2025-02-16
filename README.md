@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 You've reached my GitHub! 
 
 - 🔭 I’m currently working on a workout tracking app on iOS and Android, using principles from my favourite science-based lifting YouTubers. 
-- 🌱 I’m currently learning Swift and React Native.
+- 🌱 I’m currently learning React Native.
 - 📫 How to reach me: My primary email is victorjjma@gmail.com, you can also send me a chat on LinkedIn.
 - 😄 Pronouns: He/Him
